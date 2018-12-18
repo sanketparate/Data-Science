@@ -51,7 +51,11 @@ tdm[1:10, 1:20]
 w =rowSums(tdm)
 w =subset(w, w>=1)
 w
+
+# Saving the Barplot
+png("D:/Tweets/barplot.png")
 barplot(w, las =2, col=rainbow(20))
+dev.off()
 
 
 # Wordcloud
