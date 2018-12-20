@@ -1,1 +1,1 @@
-Twitter Sentimental Analysis
+<b>Twitter Sentimental Analysis</b>
