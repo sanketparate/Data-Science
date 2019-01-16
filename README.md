@@ -9,6 +9,16 @@ The Project is done in 'R Studio'. The flow of the process of performing the Sen
 </ul>
 
 <h2>Prequisites</h2>
-1. You should Developer Account of <a href="https://apps.twitter.com">Twitter</a>.
-2. R Studio
+<b>1.</b> You should have Developer Account of <a href="https://apps.twitter.com">Twitter</a>.<br>
+<b>2.</b> R Studio
+
+<h2>Steps:</h2>
+<ul>
+<li>Build Corpus and clean Text.</li>
+<li>Build Term Document Matrix'Build Bar Plot to see the frequency of most occuring words.</li>
+<li>Build WordCloud.</li>
+<li>Perform Sentimental Analysis and get scores. Classify(Positive and Negative Words) using library syuzhet.</li>
+<li>Build Bar Plot to see the impact of Topic.</li>
+</ul>
+
 
